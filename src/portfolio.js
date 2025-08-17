@@ -26,7 +26,7 @@ const greeting = {
     "Full-Stack Developer 🚀 skilled in MERN stack, crafting scalable apps with React, Node, MongoDB & Tailwind. Focused on clean code, seamless integrations, and impactful user experiences."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1yH01tSkCnpc0ZM_j_ao3PLC9r18t74vz/view?usp=sharing",
+    "https://drive.google.com/file/d/1zOikv1vptMmtOdNxBVQrVVWfkmvyR3HG/view?usp=sharing",
   displayGreeting: true
 };
 
